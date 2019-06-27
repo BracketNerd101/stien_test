@@ -2,6 +2,9 @@
 body {
   min-height: 2200px; }
 
+.black_btn {
+  color: #000000; }
+
 .prime_btn {
   background-color: #000000;
   color: #ffffff;
