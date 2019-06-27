@@ -2,4 +2,21 @@
 body {
   min-height: 2200px; }
 
+.prime_btn {
+  background-color: #000000;
+  color: #ffffff; }
+
+.prime_btn:hover {
+  background-color: transparent;
+  color: #000000; }
+
+.grey_bg {
+  background-color: #f0f0f0; }
+
+.beige_bg {
+  background-color: #ede1cb; }
+
+.pink_bg {
+  background-color: #ecd1c8; }
+
 /*# sourceMappingURL=stien.css.map */

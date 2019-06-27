@@ -11,3 +11,37 @@ body {
 // Default Button: background is #000, text is #fff
 // Hover Button: background is transparent, text is #000, border is 2px #000
 // Background colors:  Grey (#f0f0f0), Beige (#ede1cb), Pink (#ecd1c8)
+
+
+.prime_btn {
+
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.prime_btn:hover {
+
+    background-color: transparent;
+    color: #000000;
+}
+
+// background styles below
+
+
+.grey_bg {
+
+    background-color: #f0f0f0;
+
+}
+
+.beige_bg {
+
+    background-color: #ede1cb;
+    
+}
+
+.pink_bg {
+
+    background-color: #ecd1c8;
+    
+}
