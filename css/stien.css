@@ -32,4 +32,10 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 100; }
 
+.pool_side {
+  background-size: cover;
+  background: url("../img/Hero_poolside.jpg") center/cover no-repeat;
+  height: 30rem;
+  width: 1005; }
+
 /*# sourceMappingURL=stien.css.map */

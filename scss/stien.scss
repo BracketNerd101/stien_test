@@ -28,7 +28,6 @@ body {
 
 // background styles below
 
-
 .grey_bg {
 
     background-color: #f0f0f0;
@@ -66,4 +65,16 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     
+}
+
+
+// content styles below 
+
+
+.pool_side {
+
+    background-size: cover;
+    background: url('../img/Hero_poolside.jpg') center / cover no-repeat;
+    height: 30rem;
+    width: 1005;
 }
