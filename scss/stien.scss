@@ -181,8 +181,9 @@ body {
 .purse_hero {
 
     background-size: cover;
-    background-image: url('../img/handbags.jpg');    
-height: 60rem;
+    background-image: url('../img/handbags.jpg'); 
+    border: solid 3px #ffffff;   
+    height: 60rem;
     // width: auto;
 
 
@@ -191,9 +192,9 @@ height: 60rem;
 .jade_hero {
 
     background-size: cover;
-    background-image: url('../img/jewelry.jpg')
-;   
- height: 60rem;
+    background-image: url('../img/jewelry.jpg');
+    border: solid 3px #ffffff;   
+     height: 60rem;
     // width: auto;
 
 
