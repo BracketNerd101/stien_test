@@ -19,4 +19,16 @@ body {
 .pink_bg {
   background-color: #ecd1c8; }
 
+.bold_text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700; }
+
+.md_text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400; }
+
+.light_text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100; }
+
 /*# sourceMappingURL=stien.css.map */
